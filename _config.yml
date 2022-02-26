@@ -1,13 +1,3 @@
 theme: jekyll-theme-cayman
 title: Stand With Ukraine
 description: RussiaInvadedUkraine Today, on 24 of February 2022, at 5.00 AM the armed forces of the Russian Federation 🇷🇺 attacked Ukraine 🇺🇦 Please, Stand with Ukraine, stay tuned for updates on Ukraine’s official sources and channels in English and support Ukraine in its fight for freedom and democracy in Europe.
-
-# Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: 3d4ba38c0eaa7aef4b8f                            #生成的clientID
-  clientSecret: d30d2f2f5ca11a7145827b56d7d025e546bd3a76    #生成的clientSecret
-  repo: wukelan.github.io    #仓库名称
-  owner: wukelan    #github用户名
-  admin: wukelan
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
