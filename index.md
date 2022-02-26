@@ -2,122 +2,50 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# STAND WITH UKRAINE NOW
 
-[Link to another page](./another-page.html).
+RussiaInvadedUkraine Today, on 24 of February 2022, at 5.00 AM the armed forces of the Russian Federation 🇷🇺 attacked Ukraine 🇺🇦 Please, Stand with Ukraine, stay tuned for updates on Ukraine’s official sources and channels in English and support Ukraine in its fight for freedom and democracy in Europe.
 
-There should be whitespace between paragraphs.
+# HOW CAN YOU HELP UKRAINE
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+The most important thing you can do for Ukraine now is to READ and SHARE verified information about Russia’s attack on Ukraine.  
 
-# Header 1
+关注[@乌克兰驻华大使馆信息中心官方微博](https://weibo.com/wukelanembassy)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
+> 2022年2 月 24 日，乌克兰国家银行宣布开设特别筹款账户，以支持乌克兰武装部队。
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> 乌克兰政府在整个乌克兰实施戒严令后，为抵抗俄罗斯武装侵略，维护乌克兰独立主权和领土完整，乌克兰国家银行宣布开设特别筹款账户。
+>
+> 该账户接收来自国际合作伙伴和捐助者的捐款（美元、欧元、英镑）。 
 
-### Header 3
+**支持乌克兰！**
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## 以美元捐款：
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+* SWIFT Code NBU: NBUA UA UX
+* 银行：JP MORGAN CHASE BANK, New York
+* SWIFT Code: CHASUS33
+* Account: 400807238
+* 383 Madison Avenue, New York, NY 10179, USA
+* 银行账户: UA843000010000000047330992708
 
-#### Header 4
+## 以英镑捐款：
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+* SWIFT Code NBU: NBUA UA UX
+* 银行：Bank of England, London
+* SWIFT Code: BKENGB2L
+* Account: 40000982
+* Threadneedle Street, London EC2R 8AH, UK
+* 银行账户: UA843000010000000047330992708
 
-##### Header 5
+## 以欧元捐款：
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+* SWIFT Code NBU: NBUA UA UX
+* 银行：DEUTSCHE BUNDESBANK, Frankfurt
+* SWIFT Code: MARKDEFF
+* Account: 5040040066
+* IBAN DE05504000005040040066
+* Wilhelm-Epsteinn-Strabe 14, 60431 Frankfurt Am Main,Germany
+* 银行账户: UA843000010000000047330992708
 
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+**全世界人民团结起来，反对一切帝国主义侵略！**
